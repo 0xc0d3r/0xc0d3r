@@ -4,9 +4,9 @@
 
 🏠 I live in India 🇮🇳
 
-🔭 Working on [Wingspan](https://wingspan.app/) platform to help freelancers
+🔭 Working on [Wingspan](https://wingspan.app/) platform
 
-🕐 Previously: Built applications with ReactJS, React Native, Gatsby.
+🕐 Previously: Built applications with ReactJS, React Native, Gatsby
 
 🎤 I speak English, Telugu, and occasionally JavaScript (both typed and non-typed accents)
 
@@ -14,7 +14,7 @@
 
 🕹️ Play Chess, Online Poker, and ocassionally Counter Striker 1.6
 
-⚡ Fun fact: I'm a Gym freak and I ❤️ action movies like Marvel
+⚡ Fun fact: I'm a fitness freak and I ❤️ to watch action and SciFi movies/series
 
 💬 Ask me about JavaScript, TypeScript, ReactJS, React Native, MobX
 
