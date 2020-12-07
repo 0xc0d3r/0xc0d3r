@@ -10,7 +10,7 @@
 
 🎤 I speak English, Telugu, and occasionally JavaScript (both typed and non-typed accents)
 
-🌱 Learning Google Cloud Platform
+🌱 Learning advanced React Patterns and concepts in [Epic React](https://epicreact.dev/)
 
 🕹️ Play Chess, Online Poker, and ocassionally Counter Striker 1.6
 
