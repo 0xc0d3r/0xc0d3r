@@ -4,9 +4,9 @@
 
 🏠 I live in India 🇮🇳
 
-🔭 Working on [Wingspan](https://wingspan.app/) platform
+🔭 Building [Wingspan](https://wingspan.app/) platform
 
-🕐 Previously: Built applications with ReactJS, React Native, Gatsby
+🕐 Previously: Built applications with ReactJS, React Native
 
 🎤 I speak English, Telugu, and occasionally JavaScript (both typed and non-typed accents)
 
