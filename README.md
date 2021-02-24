@@ -8,7 +8,7 @@
 
 🕐 Previously: Built applications with ReactJS, React Native
 
-🎤 I speak English, Telugu, and occasionally JavaScript (both typed and non-typed accents)
+🎤 I speak English, Telugu, and JavaScript (both typed and non-typed accents)
 
 🌱 Learning advanced React Patterns and concepts in [Epic React](https://epicreact.dev/)
 
@@ -16,6 +16,6 @@
 
 ⚡ Fun fact: I'm a fitness freak and I ❤️ to watch action and SciFi movies/series
 
-💬 Ask me about JavaScript, TypeScript, ReactJS, React Native, MobX
+💬 Ask me about JavaScript, TypeScript, ReactJS
 
 📫 Reach me at [@anesh_parvatha](https://twitter.com/anesh_parvatha)
