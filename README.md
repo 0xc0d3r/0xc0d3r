@@ -6,13 +6,9 @@
 
 🔭 Building [Wingspan](https://wingspan.app/) platform
 
-🕐 Previously: Built applications with ReactJS, React Native
-
 🎤 I speak English, Telugu, and JavaScript (both typed and non-typed accents)
 
-🌱 Learning advanced React Patterns and concepts in [Epic React](https://epicreact.dev/)
-
-🕹️ Play Chess, Online Poker, and ocassionally Counter Striker 1.6
+🕹️ Play Chess, Online Poker, and listening to Tollywood's retro songs
 
 ⚡ Fun fact: I'm a fitness freak and I ❤️ to watch action and SciFi movies/series
 
