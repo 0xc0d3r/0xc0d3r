@@ -4,7 +4,7 @@
 
 🔭 Building [Wingspan](https://wingspan.app/) platform
 
-🎤 I speak English, Telugu, and JavaScript (both typed and non-typed accents)
+🎤 I speak English, Telugu, and JavaScript (both typed and non-typed accents 😉) 
 
 💬 Ask me about Web app development and remote jobs.
 
